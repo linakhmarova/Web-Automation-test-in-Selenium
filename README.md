@@ -28,3 +28,4 @@ enter sender & receiver name --> upload an image --> add blessing --> pick deliv
 2. Open it with IntelliJ  
 3. In Constants.java change REPORTER_PATH, PROPERTY_2, XML_FILE, IMAGE_PATH, MY_IMAGE on your relevant paths  
 4. Run the project 
+ 

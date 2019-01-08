@@ -1,9 +1,11 @@
-WebSeleniumExam
+Web Automation test in Selenium
 =======
 This project is automation sanity test for BuyMe.co.il
 
 **Website adress:** https://buyme.co.il/  
 **Language:** Java  
+**Platform:** Linux (ubuntu)  
+**Browser:** Chrome  
 **IDE:** IntelliJ idea  
 **Third-Party usage:** Selenium web-driver, JUnit, ExtentReports  
 
@@ -22,4 +24,7 @@ enter sender & receiver name --> upload an image --> add blessing --> pick deliv
 
 
 # How to run:  
-1. Download 
+1. Download all the files (jars, sources, xml file..) 
+2. Open it with IntelliJ  
+3. In Constants.java change REPORTER_PATH, PROPERTY_2, XML_FILE, IMAGE_PATH, MY_IMAGE on your relevant paths  
+4. Run the project

@@ -13,13 +13,13 @@ This project is automation sanity test for BuyMe.co.il
 * press on SignUp  
 * enter credentials  
 * check-box confirmation   
-
+  
 2. Home Screen:  
 * choose price, area and category in drop-boxes  
-
+  
 3. Choose gift screen:  
 * choose a business  
-
+  
 4. Send Gift details:  
 * enter sender & receiver name  
 * upload an image  

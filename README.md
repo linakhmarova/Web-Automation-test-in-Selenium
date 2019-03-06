@@ -1,4 +1,4 @@
-Web Automation test in Selenium
+Web Automation test with Selenium
 =======
 This project is automation sanity test for BuyMe.co.il
 
